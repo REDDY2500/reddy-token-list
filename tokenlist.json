@@ -1,0 +1,15 @@
+{
+  "name": "Reddy Panda Token List",
+  "logoURI": "https://i.postimg.cc/8kHLmwrV/image.jpg",
+  "timestamp": "2025-02-16T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xAE3cbbc64a6E0E86dD2D87C07b45b217409AA5F3",
+      "name": "Reddy Panda Token",
+      "symbol": "REDDY",
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/8kHLmwrV/image.jpg"
+    }
+  ]
+}
