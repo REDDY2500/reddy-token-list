@@ -1,6 +1,6 @@
 {
   "name": "Reddy Panda Token List",
-  "logoURI": "https://i.postimg.cc/8kHLmwrV/image.jpg",
+  "logoURI": "https://raw.githubusercontent.com/REDDY2500/reddy-logo.png/refs/heads/main/reddy-logo.png",
   "timestamp": "2025-02-16T00:00:00+00:00",
   "tokens": [
     {
@@ -9,7 +9,7 @@
       "name": "Reddy Panda Token",
       "symbol": "REDDY",
       "decimals": 18,
-      "logoURI": "https://i.postimg.cc/8kHLmwrV/image.jpg"
+      "logoURI": "https://raw.githubusercontent.com/REDDY2500/reddy-logo.png/refs/heads/main/reddy-logo.png"
     }
   ]
 }
