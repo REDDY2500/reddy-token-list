@@ -2,14 +2,19 @@
   "name": "Reddy Panda Token List",
   "logoURI": "https://raw.githubusercontent.com/REDDY2500/reddy-logo1.png/refs/heads/main/Reddy-logo1.png",
   "timestamp": "2025-02-16T00:00:00+00:00",
+   "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
   "tokens": [
     {
       "chainId": 56,
       "address": "0x47f3D6e4364EE580B5501eEb8774c26b89a34583",
-      "name": "Reddy Panda Token",
+      "name": "ReddyToken",
       "symbol": "REDDY",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/REDDY2500/reddy-logo1.png/refs/heads/main/Reddy-logo1.png"
+      "tags": ["bsc", "erc20"]
     }
   ]
 }
